@@ -1,5 +1,11 @@
 ### Hi, I'm Kailin
 
+I'm always looking to learn something new. 
+
+#### 📚 Reading list update 
+* _Last finished:_ Anna Karenina (Favorite scenes include Levin mowing) 
+* _Up next:_  Beyond Good and Evil (It's going to take a couple re-reads of each page) 
+
 
 <!--
 **kailin-lu/kailin-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
