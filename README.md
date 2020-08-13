@@ -1,23 +1,13 @@
 ### Hi, I'm Kailin
 
-I'm always looking to learn something new. 
+I'm always looking to learn something new.
+
+#### 🛠️ Projects in Progress
+* [markovattribution](https://github.com/kailin-lu/markovattribution) Multi-channel marketing attribution modeling with markov chains in Python 
 
 #### 📚 Reading list update 
 * _Last finished:_ Anna Karenina (Favorite scenes include Levin mowing) 
 * _Up next:_  Beyond Good and Evil (It's going to take a couple re-reads of each page) 
 
-
-<!--
-**kailin-lu/kailin-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/kailin-lu/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:kailinluca@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-email-red" alt="Email"/></a>
