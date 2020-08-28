@@ -7,7 +7,7 @@ I'm always looking to learn something new.
 
 #### 📚 Reading list update 
 * _Last finished:_ Anna Karenina (Favorite scenes include Levin mowing) 
-* _Up next:_  Beyond Good and Evil (It's going to take a couple re-reads of each page) 
+* _Current:_  Beyond Good and Evil (Controversial so far to say the least, really feels like walking on a tightrope) 
 
 <a href="https://www.linkedin.com/in/kailin-lu/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="mailto:kailinluca@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-email-red" alt="Email"/></a>
