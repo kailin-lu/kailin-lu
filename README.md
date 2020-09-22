@@ -14,4 +14,6 @@ I'm always looking to learn something new.
 [![https://maintained.cc/kailin-lu/kailin-lu/1](https://maintained.cc/kailin-lu/kailin-lu/1)](https://maintained.cc/kailin-lu/kailin-lu/1/redirect)
 [![https://maintained.cc/kailin-lu/kailin-lu/2](https://maintained.cc/kailin-lu/kailin-lu/2)](https://maintained.cc/kailin-lu/kailin-lu/2/redirect)
 
-<sup>Like my badges? Check out [![https://maintained.cc/kailin-lu/kailin-lu/3](https://maintained.cc/kailin-lu/kailin-lu/3)](https://maintained.cc/kailin-lu/kailin-lu/3/redirect) </sup>
+
+------------------------
+<sup>PS Like my badges? Check out [![https://maintained.cc/kailin-lu/kailin-lu/3](https://maintained.cc/kailin-lu/kailin-lu/3)](https://maintained.cc/kailin-lu/kailin-lu/3/redirect) </sup>
