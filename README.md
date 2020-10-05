@@ -4,6 +4,7 @@ I'm always looking to learn something new.
 
 #### 🛠️ Projects in Progress
 * [markovattribution](https://github.com/kailin-lu/markovattribution) Multi-channel marketing attribution modeling with markov chains in Python 
+* [CUDA + OpenGL exploration](https://github.com/kailin-lu/https://github.com/kailin-lu/Particle_Visualization_GPU) 
 
 #### 📚 Reading list update 
 * _Last finished:_ Anna Karenina (Favorite scenes include Levin mowing) 
