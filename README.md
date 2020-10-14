@@ -4,7 +4,7 @@ I'm always looking to learn something new.
 
 #### 🛠️ Projects in Progress
 * [markovattribution](https://github.com/kailin-lu/markovattribution) Multi-channel marketing attribution modeling with markov chains in Python 
-* [CUDA + OpenGL exploration](https://github.com/kailin-lu/https://github.com/kailin-lu/Particle_Visualization_GPU) 
+* [CUDA + OpenGL exploration](https://github.com/kailin-lu/Particle_Visualization_GPU) 
 
 ### Contact Info 
 
